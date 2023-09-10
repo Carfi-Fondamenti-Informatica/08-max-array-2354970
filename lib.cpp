@@ -1,7 +1,3 @@
-//
-// Created by G.Careddu on 10/09/2023.
-//
-
 #include "lib.h"
 
 float FindMax(float Array[], int dim_array) {
