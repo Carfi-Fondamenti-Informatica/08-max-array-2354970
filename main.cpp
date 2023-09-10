@@ -10,6 +10,6 @@ int main() {
     for (int i = 0; i < dim_array; ++i) {
         cin >> Array[i];
     }
-    cout << FindMax(Array,dim_array) << endl;
+    cout << FindMax(Array,dim_array);
     return 0;
 }
